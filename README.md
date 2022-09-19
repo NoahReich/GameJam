@@ -1,2 +1,0 @@
-# GameJam
-Game Jam
